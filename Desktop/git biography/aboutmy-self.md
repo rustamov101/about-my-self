@@ -11,7 +11,7 @@
 
 ********* 
 
-### Briefly about nyself:
+### Briefly about Myself:
 
 #### Having started my career as a layout designer in a local newspaper with minimum skills, I became profficient in printing design. My keen interest in printing technologies led me to working as a Prepress and DTP Engineer in the largest printing house in my city,where I continued self-learning, examining the process of creating wine and food labels, magazines and other printed goods.
 
@@ -28,7 +28,7 @@
 * PYTHON
 * Adobe Photoshop, Illustrator, InDesign
 
-=====
+********
 
 ### Courses
 * HTML and CSS Tutorials on the w3schools (completed)
@@ -36,7 +36,7 @@
 * JavaScript Manual on learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-=====
+********
 ### Languages
 * Russian - native
 * Uzbek - native
