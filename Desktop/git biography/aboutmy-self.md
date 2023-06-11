@@ -32,5 +32,5 @@
 
 ### Courses
 * HTML and CSS Tutorials on the w3schools (completed)
-![C:\Users\rusta\Desktop\photo_2023-06-10_11-43-58.jpg](C:\Users\rusta\Desktop\photo_2023-06-10_11-43-58.jpg)
+![C:\Users\rusta\Desktop\photo_2023-06-10_11-43-58.jpg](C:\Users\rusta\Desktop\photo_2023-06-10_11-43-58.jpg "C:\Users\rusta\Desktop\photo_2023-06-10_11-43-58.jpg")
 
