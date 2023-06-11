@@ -1,1 +1,6 @@
-## Jahongir Rustamov
+# Jahongir Rustamov
+
+## Junior Frontend developer
+
+====
+
