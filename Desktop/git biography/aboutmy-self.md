@@ -32,4 +32,5 @@
 
 ### Courses
 * HTML and CSS Tutorials on the w3schools (completed)
-![mountains](C:\Users\rusta\Desktop\14066682001_d6cd418aba_k.jpg "Пейзаж с горами")
+![C:\Users\rusta\Desktop\14066682001_d6cd418aba_k.jpg](C:\Users\rusta\Desktop\14066682001_d6cd418aba_k.jpg)
+
